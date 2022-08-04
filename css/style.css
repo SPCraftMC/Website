@@ -1018,3 +1018,15 @@ body:after {
     color: #888888; }
     .footer a:hover {
       color: #000; }
+
+@media screen and (max-width:768px) {
+  .image-me {
+    width: 100%;
+  }
+}
+@media screen and (min-width:768px) {
+  .image-me {
+    width: 100vh;
+    transform: translate(40vh, 0px);
+  }
+}
