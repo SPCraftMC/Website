@@ -19,6 +19,18 @@
                 <mdui-button style="background-color: #66ccff;">文档中心</mdui-button>
             </a>
         </p>
+        <p>
+            <br>
+            风雨阁 Storm Pavilion 保留所有权利。<br>
+            "Minecraft"及其产品为 Mojang AB 的商标。本服务器(组织)不隶属于 Mojang AB。<br>
+            本服务器在遵守 <a href="https://www.minecraft.net/eula" target="_blank">《Minecraft EULA》(最终用户许可协议) </a>的情况下运营。<br>
+            本服务器不包含任何内购产品。<br>
+            <br>
+        </p>
+
+        <p class="moeicp-description">
+            <a href="https://icp.gov.moe/?keyword=20229960" target="_blank">萌ICP备20229960号</a>
+        </p>
     </div>
 </template>
 
@@ -29,5 +41,15 @@
 
 .buttons mdui-button {
     margin: 0.3rem;
+}
+
+@media screen and (min-width: 700px) {
+    .moeicp-description {
+        display: none;
+    }
+
+    /* .footer {
+        height: 300px;
+    } */
 }
 </style>
