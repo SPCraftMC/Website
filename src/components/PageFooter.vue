@@ -1,8 +1,5 @@
 <template>
-    <mdui-bottom-app-bar
-    scroll-behavior="hide"
-    class="footer"
-    >
+    <mdui-bottom-app-bar scroll-behavior="hide" class="footer">
         <p>
             Copyright © 2021-{{ nowYear }} 风雨阁Storm Pavilion 版权所有。<br>
             <a href="https://tos-eula.spcraft.cn/" target="_blank">风雨阁 Storm Pavilion 《服务条款及最终用户许可协议》</a><br>
@@ -31,8 +28,7 @@ var nowYear = new Date().getFullYear();
 
 @media screen and (max-width: 700px) {
     .footer {
-        height: 200px;
+        height: 300px;
     }
 }
-
 </style>

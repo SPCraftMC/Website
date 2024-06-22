@@ -20,6 +20,12 @@
     background-image: url(https://apac-cloudflare-r2.img.1l1.icu/2024/06/23/66773e9583aed.webp);
 }
 
+@media screen and (max-width: 700px) {
+    .first-screen {
+        height: 60vh;
+    }
+}
+
 .first-screen-box {
     color: white;
     margin: auto;
