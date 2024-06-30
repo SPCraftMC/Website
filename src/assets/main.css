@@ -1,5 +1,5 @@
 * {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -14,4 +14,12 @@ a {
 
 .❤ {
   color: red;
+}
+
+h1 {
+  font-weight: var(--mdui-typescale-title-large-weight);
+}
+
+.buttons mdui-button {
+  margin: 0.3rem;
 }
