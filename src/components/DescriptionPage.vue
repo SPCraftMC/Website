@@ -6,6 +6,8 @@
             服务器始终不与 Minecraft 版本 脱节， 风雨阁 Storm Pavilion 会时刻保持服务器版本为最新。<br>
             <br>
             风雨阁Storm Pavilion 最早起始于 2021 年。<br>
+            一路走来，我们从最开始的纯净生存，到探索粘液科技，再回归初心，归来仍是纯净生存。<br>
+            愿你玩 Minecraft 半生，归来仍是纯净生存。<br>
             <br>
             在全新的版本中，风雨阁 Storm Pavilion 化繁为简，去除复杂的 2FA 验证模式，阁下只需要一个外置登录账户/基岩版账户即可畅游服务器。<br>
             感谢 <a href="https://mcskin.cn/">红石皮肤站</a>，提供了外置登录服务器。<br>
