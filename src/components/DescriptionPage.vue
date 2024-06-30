@@ -1,4 +1,4 @@
-<template>
+.<template>
     <div class="description-box">
         <h1>关于</h1>
         <p>
@@ -77,4 +77,12 @@
     max-width: 700px;
     margin: 5px;
 }
+
+@media screen and (min-width: 700px) {
+    .description-flex img {
+        max-width: 96%;
+        margin: 5px;
+    }
+}
+
 </style>
