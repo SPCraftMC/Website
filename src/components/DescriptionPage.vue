@@ -80,7 +80,7 @@
 
 @media screen and (min-width: 700px) {
     .description-flex img {
-        max-width: 95%;
+        max-width: 80%;
         margin: 5px;
     }
 }
