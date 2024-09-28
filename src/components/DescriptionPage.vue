@@ -16,14 +16,14 @@
 
         <h1>游戏内实景展示</h1>
         <div class="description-flex">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f76e8d606.webp">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f78e2986d.webp">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f791d8bd2.webp">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f81879dfb.webp">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f82aaecbf.webp">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f85ca984c.webp">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f879be852.webp">
-            <img src="https://apac-cloudflare-r2.img.1l1.icu/2024/06/30/6680f8a92aea9.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f76e8d606.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f78e2986d.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f791d8bd2.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f81879dfb.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f82aaecbf.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f85ca984c.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f879be852.webp">
+            <img src="https://apac-cloudflare-r2-img.1l1.icu/2024/06/30/6680f8a92aea9.webp">
         </div>
 
         <h1>加入我们</h1>

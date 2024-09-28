@@ -28,7 +28,7 @@
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-    background-image: url(https://apac-cloudflare-r2.img.1l1.icu/2024/06/23/66773e9583aed.webp);
+    background-image: url(https://apac-cloudflare-r2-img.1l1.icu/2024/06/23/66773e9583aed.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
