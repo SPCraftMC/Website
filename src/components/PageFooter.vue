@@ -8,6 +8,9 @@
         <p class="moeicp-right">
             <a href="https://icp.gov.moe/?keyword=20229960" target="_blank">萌ICP备20229960号</a>
         </p>
+        <p class="icp-right">
+            <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2025151652号-2</a>
+        </p>
     </mdui-bottom-app-bar>
 </template>
 
